@@ -15,9 +15,9 @@ Response data and inter-session delays are stored as sorted tables (`sortedTable
 
 Analysis
 -------------------
-The code required to reproduce all analyses and related figures is available in the [`stabilityFeedbackICB.mlx`](https://github.com/Lior-Lebovich/stabilityFeedbackICB/blob/191ccc836218d0be6b764ad092724d92ecec349a/stabilityFeedbackICB.mlx) MATLAB (R2023b) Live Editor file (also available as [`stabilityFeedbackICB.pdf`](https://github.com/Lior-Lebovich/stabilityFeedbackICB/blob/7c2f833c9a0506af6a8413e38cfc6408276fd81c/stabilityFeedbackICB.pdf)).
+The code required to reproduce all analyses and related figures is available in the [`stabilityFeedbackICB.mlx`](https://github.com/Lior-Lebovich/stabilityFeedbackICB/blob/main/stabilityFeedbackICB.mlx) MATLAB (R2023b) Live Editor file (also available as [`stabilityFeedbackICB.pdf`](https://github.com/Lior-Lebovich/stabilityFeedbackICB/blob/main/stabilityFeedbackICB.pdf)).
 
-All figures are saved in the [`figures`](https://github.com/Lior-Lebovich/stabilityFeedbackICB/tree/9d92a6c93295eae0288e215d5743fd6a0dc498ab/figures) folder in MATLAB FIG format.
+All figures are saved in the [`figures`](https://github.com/Lior-Lebovich/stabilityFeedbackICB/tree/main/figures) folder in MATLAB FIG format.
 
 For Binomial tests, we use the myBinomTest custom function, reference: Matthew Nelson (2015). https://www.mathworks.com/matlabcentral/fileexchange/24813-mybinomtest-s-n-p-sided MATLAB Central File Exchange. Retrieved February 9, 2016.
 
