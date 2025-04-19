@@ -11,7 +11,7 @@ Data
 -------------------
 All data required to reproduce our results are available in the repository. 
 
-Response data and inter-session delays are stored as sorted tables (`sortedTable_`) and assign tables (`assignTable_`), respectively, grouped by experiment ([stability](https://github.com/Lior-Lebovich/stabilityFeedbackICB/tree/main/stability) and [feedback](https://github.com/Lior-Lebovich/stabilityFeedbackICB/tree/main/feedback)) and delay condition. Files follow the structure: `stabilityFeedbackICB/[EXPERIMENT_NAME]/[TABLES_TYPE]/[TABLE_TYPE]_[EXPERIMENT_NAME]_[DELAY_NAME].csv`
+Response data and inter-session delays are stored as sorted tables (`sortedTable_`) and assign tables (`assignTable_`), respectively, grouped by experiment ([`stability`](https://github.com/Lior-Lebovich/stabilityFeedbackICB/tree/main/stability) (study 1) and [`feedback`](https://github.com/Lior-Lebovich/stabilityFeedbackICB/tree/main/feedback) (study 2)) and delay condition. Files follow the structure: `stabilityFeedbackICB/[EXPERIMENT_NAME]/[TABLES_TYPE]/[TABLE_TYPE]_[EXPERIMENT_NAME]_[DELAY_NAME].csv`
 
 Analysis
 -------------------
@@ -23,7 +23,7 @@ For Binomial tests, we use the myBinomTest custom function, reference: Matthew N
 
 Web-based experiment scripts
 -------------------
-The PHP-based web interfaces used to run the experiments are available in the [`web-interface`](https://github.com/Lior-Lebovich/stabilityFeedbackICB/tree/main/web-interface) folder, grouped by experiment ([`stability`](https://github.com/Lior-Lebovich/stabilityFeedbackICB/tree/main/web-interface/stability) and [`feedback`](https://github.com/Lior-Lebovich/stabilityFeedbackICB/tree/main/web-interface/feedback)). Each folder contains the required `.php` scripts, associated `.png` assets used for trial presentation and response recording, and a flow diagram summarizing session structure and database storage.
+The PHP-based web interfaces used to run the experiments are available in the [`web-interface`](https://github.com/Lior-Lebovich/stabilityFeedbackICB/tree/main/web-interface) folder, grouped by experiment ([`stability`](https://github.com/Lior-Lebovich/stabilityFeedbackICB/tree/main/web-interface/stability) (study 1) and [`feedback`](https://github.com/Lior-Lebovich/stabilityFeedbackICB/tree/main/web-interface/feedback) (study 2)). Each folder contains the required `.php` scripts, associated `.png` assets used for trial presentation and response recording, and a flow diagram summarizing session structure and database storage.
 
 Cite
 -------------------
