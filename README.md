@@ -3,7 +3,7 @@
 
 Overview
 -------------------
-This repository is associated with the paper "Idiosyncratic choice bias and feedback-induced bias differ in their long-term dynamics".
+This repository is associated with the paper "Stability and robustness of idiosyncratic choice bias".
 
 A well-known observation in repeated-choice experiments is that a tendency to prefer one response over the others emerges if the feedback consistently favors that response. However, choice bias, a tendency to prefer one response over the others, is not restricted to biased-feedback settings and is also observed when the feedback is unbiased. In fact, participant-specific choice bias, known as idiosyncratic choice bias (ICB), is common even in symmetrical experimental settings in which feedback is completely absent. Here we ask whether feedback-induced bias and ICB share a common mechanism. Specifically, we ask whether ICBs reflect idiosyncrasies in choice-feedback associations prior to the measurement of the ICB. To address this question, we compare the long-term dynamics of ICBs with feedback-induced biases. We show that while feedback effectively induced choice preferences, its effect is transient and diminished within several weeks. By contrast, we show that ICBs remained stable for at least 22 months. These results indicate that different mechanisms underlie the idiosyncratic and feedback-induced biases.
 
